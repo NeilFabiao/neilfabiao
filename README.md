@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px">  my name is Neil 👨🏾‍💻.
 
+![](https://komarev.com/ghpvc/?username=neilfabiao&color=lightgrey)
 
-
+- 🌱 I’m currently revisiting machine learning
+- 🌊 spotify @neilfabiao and 2AM ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

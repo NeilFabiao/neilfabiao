@@ -1,5 +1,6 @@
-### Hi there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px">  my name is Neil 👨🏾‍💻.
+# Hi there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px">  my name is Neil 👨🏾‍💻.
 
+## Bsc Hons in Big Data analytics
 ![](https://komarev.com/ghpvc/?username=neilfabiao&color=lightgrey)
 
 - 🌱 I’m currently revisiting machine learning

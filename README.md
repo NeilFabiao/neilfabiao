@@ -1,7 +1,7 @@
-<h1 align="center"> #Hi there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px">  my name is Neil 👨🏾‍💻.
+<h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> Neil here 👨🏾‍💻 .
 </h1>
 
-<h2 align="center">##Bsc Hons in Big Data analytics 👨🏽‍🎓</h2>
+<h2 align="center">Bsc Hons in Big Data analytics 👨🏽‍🎓</h2>
 
 ![](https://komarev.com/ghpvc/?username=neilfabiao&color=lightgrey)
 

@@ -1,9 +1,9 @@
-<h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> Neil here 👨🏾‍💻 .
+<h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> Neil here 👨🏾‍💻.
 </h1>
 
 <h2 align="center">Bsc Hons in Big Data analytics 👨🏽‍🎓</h2>
 
-![](https://komarev.com/ghpvc/?username=neilfabiao&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=neilfabi&color=lightgrey)
 
 - 🌱 I’m currently revisiting machine learning
 - 🌊 spotify @neilfabiao for cool tunes

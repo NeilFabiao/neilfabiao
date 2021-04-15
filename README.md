@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=neilfabiao&color=lightgrey)
 
 - 🌱 I’m currently revisiting machine learning
-- 🌊 spotify @neilfabiao and 2AM ...
+- 🌊 spotify @neilfabiao for cool tunes
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

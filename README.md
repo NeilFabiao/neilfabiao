@@ -3,7 +3,7 @@
 
 <h2 align="center">Bsc Hons in Big Data analytics 👨🏽‍🎓</h2>
 
-![](https://komarev.com/ghpvc/?username=neilfabiak1q0&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=neilfabia_final&color=lightgrey)
 
 - 🌱 I’m currently revisiting machine learning
 - 🔭 I’m currently working on Data analytics projects

@@ -5,8 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=neilfabiaofinal&color=lightgrey)
 
-- 🌱 I’m currently revisiting machine learning
-- 🔭 I’m currently working on Data analytics projects
+- 🌱 revisiting machine learning
+- 🔭 working on Data analytics projects
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

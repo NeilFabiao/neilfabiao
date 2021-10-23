@@ -1,12 +1,12 @@
 <h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> Neil here 👨🏾‍💻.
 </h1>
 
-<h2 align="center">Bsc Hons in Big Data analytics 👨🏽‍🎓</h2>
+<h2 align="center">MSc student 👨🏽‍🎓</h2>
 
 ![](https://komarev.com/ghpvc/?username=neilfabiaofinal&color=lightgrey)
 
 - 🌱 revisiting machine learning
-- 🔭 working on Data analytics projects
+- 🔭 working on Evolutionary algorithms
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

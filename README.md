@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> Neil here 👨🏾‍💻.
+<h1 align="center"> Hello there  <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="10px"> Neil here 👨🏾‍💻.
 </h1>
 
 <h2 align="center">MSc student 👨🏽‍🎓</h2>

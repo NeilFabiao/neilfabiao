@@ -1,6 +1,8 @@
-<h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
+
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="10px" > </h2>
+
+<h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
 
 <h3 align="center">MSc student 👨🏽‍🎓</h3>
 

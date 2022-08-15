@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px" > </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="1000px" > </h2>
 
 <h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
 

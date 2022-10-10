@@ -8,8 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=neilfabiaofinal&color=lightgrey)
 
-- 🌱 revisiting machine learning
-- 🔭 working on NLP (Natural Language Processing) dissertation
+- 🌱 learning deployment of machine learning models
+- 🔭 working on NLP (Natural Language Processing) 
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

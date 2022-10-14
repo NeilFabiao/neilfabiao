@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
 
-<h3 align="center">MSc student 👨🏽‍🎓</h3>
+<h3 align="center">MSc in AI 👨🏽‍🎓</h3>
 
 ![](https://komarev.com/ghpvc/?username=neilfabiaofinal&color=lightgrey)
 

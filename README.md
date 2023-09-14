@@ -4,12 +4,12 @@
 
 <h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
 
-<h3 align="center">MSc in AI 👨🏽‍🎓</h3>
+<h3 align="center">AI Researcher 🤖</h3>
 
-![](https://komarev.com/ghpvc/?username=neilfabiaofinal&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=neilfabiao2024&color=lightblue)
 
-- 🌱 learning deployment of machine learning models
-- 🔭 working on NLP (Natural Language Processing) 
+- 🌱 learning LLMs, prompt engineering, generative AI and LangChain with Chroma.
+- 🔭 working on NLU (Natural Language Understanding) 
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

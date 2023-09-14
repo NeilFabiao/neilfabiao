@@ -6,7 +6,7 @@
 
 <h3 align="center">AI Researcher 🤖</h3>
 
-![](https://komarev.com/ghpvc/?username=neilfabiao2024&color=blue)
+![](https://komarev.com/ghpvc/?username=neilfabiao2023-24&color=blue)
 
 - 🌱 learning LLMs, prompt engineering, generative AI and LangChain with Chroma.
 - 🔭 working on NLU (Natural Language Understanding) 

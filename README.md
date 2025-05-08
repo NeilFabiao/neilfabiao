@@ -8,8 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=neilfabiao2023-24&color=blue)
 
-- 🌱 Learning Azure, Azure Data Factory, SQL, Data Lake, Databricks, HDInsight, CI/CD, and PowerBI.
-- 🔭 Working on AI (Artificial Intelligence) Engineering.
+- 🌱 Learning SQL, CI/CD, and PowerBI.
+- 🔭 Working on AI (Artificial Intelligence) Engineering and Data Science.
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

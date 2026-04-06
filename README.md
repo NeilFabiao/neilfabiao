@@ -4,9 +4,9 @@
 
 <h1 align="center"> Hello there  Neil here 👨🏾‍💻. </h1>
 
-<h3 align="center">AI Researcher 🤖</h3>
+<h3 align="center">Researcher AI 🤖</h3>
 
-![](https://komarev.com/ghpvc/?username=neilfabiao2023-24&color=blue)
+![](https://komarev.com/ghpvc/?username=neilfabiao2026&color=blue)
 
 - 🌱 Learning SQL, CI/CD, and Machine Learning + Insights.
 - 🔭 Working on AI (Artificial Intelligence) Engineering and Data Science.

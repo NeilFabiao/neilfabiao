@@ -8,11 +8,11 @@
 
 <h3 align="center">Researcher AI 🤖</h3>
 
-![](https://komarev.com/ghpvc/?username=neilfabiao2026-Final&color=blue)
+![](https://komarev.com/ghpvc/?username=neilfabiao2026-Final1&color=blue)
 
-- 🌱 Learning SQL, CI/CD, and Machine Learning + Insights.
-- 🔭 Working on AI (Artificial Intelligence) Engineering and Data Science.
-- ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
+- 🌱 Learning SQL, CI/CD, and deployment optimization  
+- 🔭 Working on Machine Learning & Insights  
+- ⚡ Fun fact: 🇵🇹 is my first language, 🇬🇧 my second, plus ...
 <!--
 **NeilFabiao/neilfabiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

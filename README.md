@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=neilfabiao2023-24&color=blue)
 
-- 🌱 Learning SQL, CI/CD, and PowerBI.
+- 🌱 Learning SQL, CI/CD, and Machine Learning + Insights.
 - 🔭 Working on AI (Artificial Intelligence) Engineering and Data Science.
 - ⚡ Fun fact: 🇵🇹 1st language and 🇬🇧 2nd language plus ...
 <!--

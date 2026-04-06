@@ -3,8 +3,7 @@
 <h2 align="center"> <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="100px" > </h2>
 
 <h1 align="center">
-  Hello there<br>
-  Neil here 👨🏾‍💻
+  Hello there, Neil here 👨🏾‍💻
 </h1>
 
 <h3 align="center">Researcher AI 🤖</h3>
